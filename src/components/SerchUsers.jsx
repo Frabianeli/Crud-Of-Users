@@ -17,7 +17,7 @@ const SerchUsers = ({users, setSearch, userSearch}) => {
                 if(name.includes(userSearch)){
                     axios.get(`https://users-crud1.herokuapp.com/users/${user.id}`)
                     .then(res =>  {
-                                /*resultUsers.push([res.data])*/
+                                /*resultUsers.push(res.data)*/
                                 setSearch([res.data])})
                     .catch(err => alert('An intentional problem occurred again'))
                     .finally(miForm.reset())
