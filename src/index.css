@@ -1,0 +1,223 @@
+@media (min-width: 508px) {
+    .container-form form{
+        padding: 25px 45px 25px 45px;
+    }
+    .card-delete {
+        padding: 50px 70px 50px 70px;
+    }
+    .card-delete h1{
+        font-size: 16px;
+    }
+}
+@media (min-width: 768px) {
+    .container-card{
+        width: 80%;
+    }
+    .card-info h3{
+        font-size: 17px;
+      }
+      .card-info h4{
+        font-size: 15px;
+      }
+      .card-info p{
+        font-size: 13px;
+      }
+      .container-form form{
+        padding: 25px 45px 25px 45px;
+    }
+    form div input{
+        width: 260px;
+        font-size: 12px;
+      }
+    .first-name{
+        margin-right: 10px;
+        width: 122px;
+    }
+    .last-name{
+        width: 122px;
+    }
+    form  div i{
+        font-size: 15px;
+    }
+    form h2{
+        padding-bottom: 20px;
+        font-size: 24px;
+    }
+    label{
+        display: block;
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    form .buttons i{
+        font-size: 18px;
+      }
+      .close{
+        font-size: 18px;
+        font-weight: 500;
+        }
+     
+}
+@media (min-width: 908px) {
+    .App > h1{
+        font-size: 34px;
+    }
+    .container-card{
+        width: 80%;
+    }
+    .card-info h3{
+        font-size: 19px;
+      }
+      .card-info h4{
+        font-size: 17px;
+      }
+      .card-info p{
+        font-size: 15px;
+      }
+      .card-button button i{
+        font-size: 16px;
+      }
+      .card-users{
+        padding-top: 22px;
+        max-width: none;
+        width: 550px;
+        display: flex;
+      }
+      .card-button{
+        width: 40%;
+      }
+      .card-info{
+        padding-left: 10px;
+      }
+      
+      .card-button button i{
+        font-size: 16px;
+      }
+      .card-button button{
+        background-color: rgb(35, 128, 151);
+        border: none;
+        cursor: pointer;
+        padding: 7px 8px 7px 8px;
+        border-radius: 5px;
+      }
+        
+        .search form{
+        width: 50%;
+        background-color:none;
+        display: flex;
+        justify-content: center;
+        }
+        .search form{
+        padding: 10px;
+        }
+        .search button{
+        font-size: 14px;
+        border-radius: 0px 7px 7px 0px;
+        padding: 3px 9px 3px 9px;
+        }
+        .search input{
+        padding: 4px 0px 4px 5px;
+        width: 178px;
+        }
+        .search form .prevent{
+            border-radius: 7px 0px 0px 7px;
+          }
+             .container-form form{
+        padding: 25px 45px 25px 45px;
+    }
+    form div input{
+        width: 260px;
+        font-size: 12px;
+      }
+    .first-name{
+        margin-right: 10px;
+        width: 122px;
+    }
+    .last-name{
+        width: 122px;
+    }
+    form  div i{
+        font-size: 15px;
+    }
+    form h2{
+        padding-bottom: 20px;
+        font-size: 24px;
+    }
+    label{
+        display: block;
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    form .buttons i{
+        font-size: 18px;
+      }
+      .close{
+        font-size: 18px;
+        font-weight: 500;
+        }
+     
+        .container-form form{
+            padding: 30px 60px 30px 60px;
+        }
+        .card-delete {
+            width: 300px;
+        }
+        .card-delete h1{
+            font-size: 18px;
+        }
+        .card-delete i {
+            font-size: 45px;
+        }
+        .card-delete button{
+            font-size: 15px;
+        }
+}
+
+
+@media (min-width: 1450px) {
+
+.container-form form{
+    padding: 45px 60px 45px 60px;
+}
+form div input{
+    width: 300px;
+    font-size: 15px;
+  }
+.first-name{
+    margin-right: 11px;
+    width: 141px;
+}
+.last-name{
+    width: 141px;
+}
+form  div i{
+    font-size: 17px;
+}
+form h2{
+    padding-bottom: 20px;
+    font-size: 27px;
+}
+label{
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+form .buttons i{
+    font-size: 20px;
+  }
+  .close{
+    font-size: 18px;
+    font-weight: 600;
+    }
+    .card-delete {
+        width: 410px;
+    }
+    .card-delete h1{
+        font-size: 21px;
+    }
+    .card-delete i {
+        font-size: 60px;
+    }
+    .card-delete button{
+        font-size: 16px;
+    }
+}
