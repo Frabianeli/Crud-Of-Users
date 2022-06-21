@@ -63,7 +63,7 @@ const Form = ({getUsers, formCreate, formUsers, modifyUser, setForm, setFormCrea
             </div>
             <div className='buttons'>
                   <button><i className="fa-solid fa-square-check"></i></button>
-                  <button onClick={formCreate ? closeCreate : formUsers} className='close'>Close</button>  
+                  <button onClick={formCreate ? closeCreate : formUsers} className='close'>Cancel</button>  
             </div> 
         </form>
     </div>
